@@ -20,7 +20,7 @@
     </td>
 
   <td valign="top" width="33%">
-      <strong>DevOps & Tools</strong><br><br>
+      <strong>DevOps</strong><br><br>
       <img src="https://img.shields.io/badge/AWS%20EC2-ff9900?style=flat&logo=amazonec2" /><br>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" /><br>
       <img src="https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins" /><br>
