@@ -25,6 +25,7 @@
       <img src="https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins" /><br>
       <img src="https://img.shields.io/badge/DNS%20%26%20Routing-grey?style=flat" /><br>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions" /><br>
+      <img src="https://img.shields.io/badge/Gitlab%20CI-brightgreen?style=flat&logo=gitlab" /><br>
       <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux" />
     </td>
     
@@ -72,8 +73,8 @@
 
   <img src="https://img.shields.io/badge/SSL%20(Let's%20Encrypt)-green?style=flat" /><br>
       <img src="https://img.shields.io/badge/Environment%20Configs-grey?style=flat" /><br>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions" /><br>
-      <img src="https://img.shields.io/badge/Gitlab-CI-brightgreen?style=flat&logo=gitlab" />
+      <img src="https://img.shields.io/badge/Keycloak-0066CC?style=flat&logo=keycloak" /><br>
+      
     </td>
   </tr>
 </table>
