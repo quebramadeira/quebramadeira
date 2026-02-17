@@ -24,7 +24,6 @@
       <img src="https://img.shields.io/badge/AWS%20EC2-ff9900?style=flat&logo=amazonec2" /><br>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" /><br>
       <img src="https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins" /><br>
-      <img src="https://img.shields.io/badge/SSL%20(Let's%20Encrypt)-green?style=flat" /><br>
       <img src="https://img.shields.io/badge/DNS%20%26%20Routing-grey?style=flat" /><br>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions" /><br>
       <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux" />
