@@ -22,7 +22,6 @@
   <td valign="top" width="25%">
       <strong>DevOps</strong><br><br>
       <img src="https://img.shields.io/badge/AWS%20EC2-ff9900?style=flat&logo=amazonec2" /><br>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" /><br>
       <img src="https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins" /><br>
       <img src="https://img.shields.io/badge/DNS%20%26%20Routing-grey?style=flat" /><br>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions" /><br>
@@ -52,10 +51,10 @@
       <strong>Infrastructure</strong><br><br>
 
   <img src="https://img.shields.io/badge/Kubernetes-white?style=flat&logo=kubernetes" /><br>
-      <img src="https://img.shields.io/badge/AWS%20EC2-ff9900?style=flat&logo=amazonec2" /><br>
+      <img src="https://img.shields.io/badge/AWS-ff9900?style=flat&logo=amazonec2" /><br>
       <img src="https://img.shields.io/badge/GCP-white?style=flat&logo=googlecloud" /><br>
       <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu" /><br>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" />
+      <img src="https://img.shields.io/badge/Istio-white?style=flat&logo=istio" />
           </td>
 
   <td valign="top" width="33%">
