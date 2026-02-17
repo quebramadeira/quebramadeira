@@ -43,7 +43,7 @@
     <td valign="top" width="33%">
       <strong>Infrastructure</strong><br><br>
 
-  <img src="https://img.shields.io/badge/kubernetes-white?style=flat&logo=kubernetes" /><br>
+  <img src="https://img.shields.io/badge/Kubernetes-white?style=flat&logo=kubernetes" /><br>
       <img src="https://img.shields.io/badge/AWS%20EC2-ff9900?style=flat&logo=amazonec2" /><br>
       <img src="https://img.shields.io/badge/GCP-white?style=flat&logo=googlecloud" /><br>
       <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu" /><br>
