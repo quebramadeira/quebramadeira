@@ -45,9 +45,8 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-ff9900?style=flat&logo=amazonec2" /><br>
       <img src="https://img.shields.io/badge/GCP-white?style=flat&logo=googlecloud" /><br>
       <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu" /><br>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" /><br>
-      <img src="https://img.shields.io/badge/PM2-2E2E2E?style=flat&logo=pm2" />
-    </td>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" />
+          </td>
 
   <td valign="top" width="33%">
       <strong>Deployment Workflow</strong><br><br>
