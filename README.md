@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
       <strong>Frontend</strong><br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /><br>
       <img src="https://img.shields.io/badge/Vite-white?style=flat&logo=vite" /><br>
@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Typescript-gray?style=flat&logo=typescript" />
   </td>
 
-  <td valign="top" width="33%">
+  <td valign="top" width="25%">
       <strong>Backend</strong><br><br>
       <img src="https://img.shields.io/badge/Node.js-331133?style=flat&logo=nodedotjs" /><br>
       <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb" /><br>
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Redis-a41f16?style=flat&logo=redis" />
     </td>
 
-  <td valign="top" width="33%">
+  <td valign="top" width="25%">
       <strong>DevOps</strong><br><br>
       <img src="https://img.shields.io/badge/AWS%20EC2-ff9900?style=flat&logo=amazonec2" /><br>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" /><br>
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux" />
     </td>
     
-  <td valign="top" width="33%">
+  <td valign="top" width="25%">
       <strong>Monitoring</strong><br><br>
       <img src="https://img.shields.io/badge/Prometheus-gray?style=flat&logo=prometheus" /><br>
       <img src="https://img.shields.io/badge/ELK-009688?style=flat&logo=elastic" /><br>
