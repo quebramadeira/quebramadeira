@@ -14,7 +14,7 @@
       <strong>Backend</strong><br><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" /><br>
       <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb" /><br>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql" /><br>
+      <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql" /><br>
       <img src="https://img.shields.io/badge/Redis-a41f16?style=flat&logo=redis" />
     </td>
 
