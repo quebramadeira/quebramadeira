@@ -64,7 +64,7 @@
       <img src="https://img.shields.io/badge/Build-blue?style=flat" /><br>
       <img src="https://img.shields.io/badge/Deploy-success?style=flat" /><br>
       <img src="https://img.shields.io/badge/Monitoring-informational?style=flat" />
-      <img src="https://img.shields.io/badge/Notifications%20%26%20Alerting-informational?style=flat" />
+      <img src="https://img.shields.io/badge/Notifications%20%26%20Alerting-ff9900?style=flat" />
     </td>
 
   <td valign="top" width="33%">
