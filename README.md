@@ -73,7 +73,7 @@
 
   <img src="https://img.shields.io/badge/SSL%20(Let's%20Encrypt)-green?style=flat" /><br>
       <img src="https://img.shields.io/badge/Environment%20Configs-grey?style=flat" /><br>
-      <img src="https://img.shields.io/badge/Keycloak-0066CC?style=flat&logo=keycloak" /><br>
+      <img src="https://img.shields.io/badge/Keycloak-0066CC?style=flat&logo=keycloak" />
       
     </td>
   </tr>
