@@ -70,11 +70,10 @@
 
   <td valign="top" width="33%">
       <strong>Security & Automation</strong><br><br>
-
+    
   <img src="https://img.shields.io/badge/SSL%20(Let's%20Encrypt)-green?style=flat" /><br>
       <img src="https://img.shields.io/badge/Environment%20Configs-grey?style=flat" /><br>
-      <img src="https://img.shields.io/badge/Keycloak-0066CC?style=flat&logo=keycloak" />
-      
+      <img src="https://img.shields.io/badge/Keycloak-0066CC?style=flat&logo=keycloak" />   
     </td>
   </tr>
 </table>
