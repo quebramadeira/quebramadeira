@@ -31,11 +31,11 @@
     
   <td valign="top" width="33%">
       <strong>Monitoring</strong><br><br>
-      <img src="https://img.shields.io/badge/Prometheus%20%26%20Alertmanager-gray?style=flat&logo=prometheus" /><br>
+      <img src="https://img.shields.io/badge/Prometheus-gray?style=flat&logo=prometheus" /><br>
       <img src="https://img.shields.io/badge/ELK-009688?style=flat&logo=elastic" /><br>
       <img src="https://img.shields.io/badge/Victoria%20metrics-4D0E82?style=flat&logo=victoriametrics" /><br>
       <img src="https://img.shields.io/badge/Opentelemetry-2258A5?style=flat&logo=opentelemetry" /><br>
-      <img src="https://img.shields.io/badge/Grafana,%20Alloy%20%26%20Loki-1866D4?style=flat&logo=grafana" />
+      <img src="https://img.shields.io/badge/Grafana%20%26%20Loki-1866D4?style=flat&logo=grafana" />
     </td>
   </tr>
 </table>
