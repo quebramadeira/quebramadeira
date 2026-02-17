@@ -7,8 +7,9 @@
       <strong>Frontend</strong><br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /><br>
       <img src="https://img.shields.io/badge/Vite-white?style=flat&logo=vite" /><br>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs" />
-    </td>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs" /><br>
+      <img src="https://img.shields.io/badge/Typescript-gray?style=flat&logo=typescript" />
+  </td>
 
   <td valign="top" width="33%">
       <strong>Backend</strong><br><br>
